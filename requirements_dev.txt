@@ -94,7 +94,7 @@ html-to-draftjs==1.0.1
 html2text==2020.1.16; python_version >= "3.5"
 html5lib==1.1; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version >= "3.6"
 httptools==0.1.2; sys_platform != "win32" and sys_platform != "cygwin" and platform_python_implementation != "PyPy"
-identify==2.2.13; python_full_version >= "3.6.1"
+identify==2.5.18; python_full_version >= "3.6.1"
 idna==3.2; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.6.0" and python_version >= "3.6"
 iniconfig==1.1.1; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version >= "3.6"
 isort==5.9.3; python_full_version >= "3.6.1" and python_version < "4.0"
